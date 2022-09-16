@@ -10,5 +10,4 @@ const options = {
         database: 'primeradb'
     }
 }
-
 export default knex(options)

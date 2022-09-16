@@ -1,7 +1,7 @@
 {
-  "name": "desafio-06",
+  "name": "desafio-07",
   "version": "1.0.0",
-  "description": "Desafío entregable 06 - Websockets",
+  "description": "Desafío entregable 07 - Base de datos",
   "main": "server.js",
   "type": "module",
   "scripts": {
